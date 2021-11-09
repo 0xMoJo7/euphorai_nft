@@ -1,1 +1,1 @@
-# euphorai_nft
+# euphor.ai

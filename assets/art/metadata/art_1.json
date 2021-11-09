@@ -1,0 +1,12 @@
+{
+  "name": 1,
+  "description": "Abstract generative art with neural networks",
+  "image": "https://ipfs.io/ipfs/bafkreibtiewgjqk33idp5ip7gxzysywa3trd56yyahdgtcpoe4oxh5uq34",
+  "attributes": {
+    "Nueral Net Layers": 12,
+    "Neural Net Neurons": 14,
+    "Seed 1": 0.662,
+    "Seed 2": 1.059,
+    "Symmetrical": false
+  }
+}
